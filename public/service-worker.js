@@ -5,8 +5,8 @@ const FILES_TO_CACHE = [
   "/index.js",
   "/icons/icon-192x192.png",
   "/icons/icon-192x192.png",
-  "/serviceworker.js",
-  "/db.js"
+  "/db.js",
+  "manifest.webmanifest"
 ];
 
 const STATIC_CACHE = "static-cache-v1";
